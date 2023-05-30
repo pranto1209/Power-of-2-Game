@@ -1,0 +1,12 @@
+{
+	"ruleofthegame": [
+	{
+		"description":"You have to swipe up or swipe down or swipe left or swipe right for moving numbers. You have to match two same number so that you can get the score. On one swipe you can match two numbers and the score will be 2*number. If you can make any number 2048 then you will be WIN!. Otherwise if all the grid fillup with numbers and you can not match any number then you will be LOST!.\n"
+	},
+	{
+		"description":"This game is Developed by PRANTO.\nDepartment of Computer Science & Engineering, KUET."	
+	}
+]
+}
+
+https://api.myjson.com/bins/1coxcw

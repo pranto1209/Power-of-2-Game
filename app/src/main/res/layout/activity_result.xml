@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/ResultTxt"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:textColor="#ffffff"
+        android:layout_margin="40dp"
+        android:gravity="center"
+        android:text="TestName"
+        android:textSize="40dp" />
+
+    <Button
+        android:id="@+id/ResultBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="40dp"
+        android:background="#a8b9bd"
+        android:onClick="retry"
+        android:text="Test"
+        android:textColor="#ffffff"
+        android:textStyle="italic" />
+</LinearLayout>

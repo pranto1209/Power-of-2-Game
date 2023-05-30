@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mainmenuId"
+        android:title="MAIN MENU"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/aboutthegameId"
+        android:title="RULES OF THE GAME"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/quitId"
+        android:title="QUIT GAME"
+        app:showAsAction="never" />
+</menu>
