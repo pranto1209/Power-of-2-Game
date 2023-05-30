@@ -1,2 +1,2 @@
-# Power-of-2-Game-Android-Programming-using-Java
-Power of 2 Game (Android Programming using Java)
+# Power-of-2-Game
+Power of 2 Game (Android Development using Java)
