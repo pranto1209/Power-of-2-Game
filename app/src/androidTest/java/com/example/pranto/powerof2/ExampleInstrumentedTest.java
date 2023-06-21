@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.deepak.a2048", appContext.getPackageName());
+        assertEquals("com.example.pranto.2048", appContext.getPackageName());
     }
 }

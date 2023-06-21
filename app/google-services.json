@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "547467038810",
-    "firebase_url": "https://power-of-2-3a041.firebaseio.com",
-    "project_id": "power-of-2-3a041",
-    "storage_bucket": "power-of-2-3a041.appspot.com"
+    "project_number": "526853778571",
+    "project_id": "power-of-2-7f001",
+    "storage_bucket": "power-of-2-7f001.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:547467038810:android:3b69891c39a76786c3c863",
+        "mobilesdk_app_id": "1:526853778571:android:ea001bafd439e5d6d2388e",
         "android_client_info": {
           "package_name": "com.example.pranto.powerof2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "547467038810-v5qn81na4p1vmmnuid6pbf75mf40rclu.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.pranto.powerof2",
-            "certificate_hash": "a647843631bd0a082610f793ab5681ffcc4cf473"
-          }
-        },
-        {
-          "client_id": "547467038810-fllaatvqu3mhmovuq993snv67nflm87g.apps.googleusercontent.com",
+          "client_id": "526853778571-gtdbl9tgn6qejll65dfekvp32tvfovqj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBAnDUKyPwEv-uEvyhpN6xUvmR1TIsRSh8"
+          "current_key": "AIzaSyByBIOWUd3-L6xGXwKOdPRccPc5mvBLntc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "547467038810-fllaatvqu3mhmovuq993snv67nflm87g.apps.googleusercontent.com",
+              "client_id": "526853778571-gtdbl9tgn6qejll65dfekvp32tvfovqj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
